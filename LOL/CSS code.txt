@@ -1,0 +1,13 @@
+.dona {
+  display: block;
+}
+
+
+img {
+  width: 300px;
+}
+
+.border {
+  text-align: right;
+}
+
